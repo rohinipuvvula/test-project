@@ -1,1 +1,2 @@
 sample 2
+data inserted in second sample
